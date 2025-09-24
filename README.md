@@ -12,7 +12,7 @@
 - **Languages**: C, C++, Bash, Python  
 - **Editors**: VS Code, Vim, Photoshop  
 - **Tools & Platforms**: Docker, Docker Compose, Git, Linux, Shell scripting
-- **Databases**: MariaDB, MySQL, PostgreSQL  
+- **Databases**: MariaDB, MySQL
 - **Other**: Makefile, GitHub Actions  
 
 ---
