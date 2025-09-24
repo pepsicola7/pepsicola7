@@ -17,22 +17,32 @@
 
 ---
 
-## 📚 42 Projects
-- [Inception](https://github.com/ton-pseudo/inception) – Understanding Docker, containers, and system orchestration  
-- [Libft](https://github.com/ton-pseudo/libft) – Custom C library  
-- [More projects coming soon…]  
+## 📚 My Favorite Projects
+
+- **Push_swap** https://github.com/pepsicola7/Push_swap – My first big challenge in algorithms.  
+  Implemented an efficient sorting algorithm using **two stacks** and a limited set of operations.  
+  I learned how to optimize complexity and minimize the number of moves.  
+
+- **So_long** – The first time I built a **2D game**.  
+  Developed with a simple **graphical library (MiniLibX)**, handling **player movement, collisions, map parsing, and basic rendering**.  
+  It was an amazing feeling to see my project become *visible* and interactive.  
+
+- **Minishell** https://github.com/pepsicola7/minishell – One of the hardest challenges at that time.  
+  Implemented a **small Unix shell** supporting **pipes, redirections, environment variables, and built-in commands**.  
+  This project taught me how to **structure code, manage processes, and think step by step** like a real system engineer.  
+
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-pepsicola7&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepsicola7&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌍 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ton-profil)  
-- 📫 Email: your.email@example.com  
+- 📫 Email: perrine0624@gmail.com
 
 ---
 
