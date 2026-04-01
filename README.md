@@ -31,15 +31,6 @@
   Implemented a **small Unix shell** supporting **pipes, redirections, environment variables, and built-in commands**.  
   This project taught me how to **structure code, manage processes, and think step by step** like a real system engineer.  
 
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pepsicola7&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepsicola7&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🌍 Connect with me
